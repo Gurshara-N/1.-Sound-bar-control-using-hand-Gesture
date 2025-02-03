@@ -31,3 +31,4 @@ Cross-Platform Support: Extend volume control to macOS and Linux.
 Gesture Recognition: Add more gestures for additional controls (e.g., play/pause, mute).
 UI Enhancements: Improve the visual feedback with a more intuitive interface.
 Error Handling: Handle cases where hand detection fails or is inconsistent.
+
